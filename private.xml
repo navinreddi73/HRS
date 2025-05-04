@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/src/java/Action/Message.java</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/userSignup.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/giveRating.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/src/java/Action/UserRegister.java</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/viewTweets.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/msg.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/src/java/Action/GetTweetImage.java</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/following.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/userLogin.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/src/java/DBconnection/SQLconnection.java</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/request.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/userHome.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/followers.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/src/java/Action/Getimage.java</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/adminLogin.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/src/java/Action/GetmsgImage.java</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/src/java/Action/Tweets.java</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/people.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/src/java/Action/AddPlaces.java</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/recommendation.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/index.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/src/java/Action/Admin.java</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/timeline.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/message.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/src/java/Action/Sentiment.java</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/viewMessage.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/addPlaces.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/userSignin.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/viewPlaces.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/viewRating.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/rating.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/src/java/Action/GetPlaceImage.java</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/adminHome.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/userDetails.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/tweet.jsp</file>
+            <file>file:/Users/naveenreddy45/Documents/Projects_vtu/Major_Project/Hybrid%20Recommender%20System%20for%20Tourism/SOURCE%20CODE/HybridRecommenderSystemForTourism/web/graph.jsp</file>
+        </group>
+    </open-files>
+</project-private>
